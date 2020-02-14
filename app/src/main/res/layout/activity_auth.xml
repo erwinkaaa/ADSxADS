@@ -8,6 +8,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/auth_bg"
+            android:scaleType="fitXY"/>
+
         <FrameLayout
             android:id="@+id/layout_auth_darken"
             android:layout_width="match_parent"
