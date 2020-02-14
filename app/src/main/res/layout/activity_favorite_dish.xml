@@ -14,7 +14,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Select Your Favorite Dish"
+            android:text="Pilih Hidangan Favorit Kamu"
             android:textSize="28sp" />
 
         <TextView
@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:lineSpacingExtra="8dp"
-            android:text="Choose your favorite categories food to improve your cooking skill"
+            android:text="Pilih jenis hidangan favorit kamu untuk memulai masakmu"
             android:textSize="18sp" />
     </LinearLayout>
 
@@ -71,7 +71,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:layout_margin="8dp"
-                    android:text="Meat"
+                    android:text="Daging"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
             </androidx.cardview.widget.CardView>
@@ -111,7 +111,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:layout_margin="8dp"
-                    android:text="Vegetables"
+                    android:text="Sayuran"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
             </androidx.cardview.widget.CardView>
@@ -138,7 +138,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:layout_margin="8dp"
-                    android:text="Fruits"
+                    android:text="Buah"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
             </androidx.cardview.widget.CardView>
@@ -172,7 +172,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:layout_margin="8dp"
-                    android:text="Fish &amp; Seafood"
+                    android:text="Ikan &amp; Seafood"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
             </androidx.cardview.widget.CardView>
@@ -201,7 +201,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:layout_margin="8dp"
-                    android:text="Cookies"
+                    android:text="Kue"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
             </androidx.cardview.widget.CardView>
@@ -228,7 +228,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:layout_margin="8dp"
-                    android:text="Desert"
+                    android:text="Hidangan Penutup"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
             </androidx.cardview.widget.CardView>
@@ -242,7 +242,7 @@
         android:layout_height="?attr/actionBarSize"
         android:layout_marginBottom="32dp"
         android:background="@drawable/bg_btn_primary"
-        android:text="Let's Start Cooking"
+        android:text="Mulai Memasak"
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="18sp" />

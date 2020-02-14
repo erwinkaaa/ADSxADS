@@ -22,7 +22,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Thank You!"
+            android:text="Terima Kasih!"
             android:textAlignment="center"
             android:textColor="@color/white"
             android:textSize="32sp"
@@ -32,7 +32,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Now you're registered \nand let's start to be Professional chef"
+            android:text="Sekarang kamu telah terdaftar, mari memulai menjadi koki profesional"
             android:textColor="@color/white"
             android:textAlignment="center"
             android:textSize="18sp"/>
@@ -45,7 +45,7 @@
         android:layout_height="?attr/actionBarSize"
         android:background="@drawable/bg_btn_white"
         android:layout_marginBottom="24dp"
-        android:text="Go To Homepage"
+        android:text="Menuju Halaman Utama"
         android:textAllCaps="false"
         android:textSize="18sp"/>
 

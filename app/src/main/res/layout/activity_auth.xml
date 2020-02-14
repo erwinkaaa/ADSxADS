@@ -37,7 +37,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Cook Co"
+                    android:text="Masak.in"
                     android:textAllCaps="true"
                     android:textSize="48sp" />
 
@@ -45,7 +45,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="Let's start to cook with right way !"
+                    android:text="Mari memulai memasak dengan ahlinya"
                     android:textSize="18sp" />
             </LinearLayout>
 
@@ -60,7 +60,7 @@
                     android:layout_height="60dp"
                     android:layout_marginBottom="16dp"
                     android:background="@drawable/bg_btn_primary"
-                    android:text="Register"
+                    android:text="Daftar"
                     android:textAllCaps="false"
                     android:textColor="@color/white"
                     android:textSize="18sp" />
@@ -70,7 +70,7 @@
                     android:layout_height="60dp"
                     android:layout_marginBottom="64dp"
                     android:background="@drawable/bg_btn_white"
-                    android:text="Sign In"
+                    android:text="Masuk"
                     android:textAllCaps="false"
                     android:textSize="18sp" />
             </LinearLayout>
